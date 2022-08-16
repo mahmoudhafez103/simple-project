@@ -7,13 +7,15 @@ button {
     margin: 20px;
     box-shadow: 10px 10px 10px grey;
     font-size: 20px;
+    padding-bottom: 10px;
 }
 
 .col-md-4 {
-    border-right: 2px solid #f1f1f1 ;
+    border-right: 2px solid #f1f1f1;
 }
 
-.col-md-4, .col-md-8 {
+.col-md-4,
+.col-md-8 {
     padding: 30px;
 }
 
